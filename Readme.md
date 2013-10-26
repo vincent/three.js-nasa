@@ -1,4 +1,8 @@
-h1. NASA model viewer
+
+three.js-nasa
+=============
+
+NASA model viewer
 
  - extract the .zip
  - open the .blend
